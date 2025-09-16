@@ -27,7 +27,8 @@ source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`pip install 
 
 
 ⚠️ Disclaimer
-This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for personalized guidance.
+This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. 
+Always consult a qualified healthcare provider for personalized guidance.
 
 🛠️ Technologies Used
 Streamlit
