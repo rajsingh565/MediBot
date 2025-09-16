@@ -7,7 +7,11 @@ Welcome to **MediBot**, a Streamlit-based medical assistant chatbot powered by O
 ---
 
 ## Screenshot
-![image alt]()
+Input:
+![image alt](https://github.com/rajsingh565/MediBot/blob/0ffd8383d7846579c5fc101d8fa62511622bf67b/Screenshot1.png)
+Output:
+![image_alt]()
+
 
 ## 🌟 Features
 
