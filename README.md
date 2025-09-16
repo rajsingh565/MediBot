@@ -25,32 +25,6 @@ Welcome to **MediBot**, a Streamlit-based medical assistant chatbot powered by O
    ```python -m venv venv
 source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`pip install -r requirements.txt
 
-## Set up environment variables
-
-Create a .env file in the root directory.
-Add your OpenAI API key:
-OPENAI_API_KEY=your_openai_api_key_herestreamlit run app.py🧑‍💻 Usage
-Enter your medical question, symptoms, or health-related query in the input box.
-Click "Ask MediBot" to receive a response.
-Read the response and disclaimer carefully.
-
-⚠️ Disclaimer
-This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for personalized guidance.
-
-🛠️ Technologies Used
-Streamlit
-OpenAI GPT-3.5-turbo
-Python
-dotenv
-httpx
-
-🙌 Credits
-Developed by Raj Singh
-UI enhancements inspired by community best practices
-Powered by OpenAI🧑‍💻 Usage
-Enter your medical question, symptoms, or health-related query in the input box.
-Click "Ask MediBot" to receive a response.
-Read the response and disclaimer carefully.
 
 ⚠️ Disclaimer
 This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for personalized guidance.
