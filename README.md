@@ -10,7 +10,7 @@ Welcome to **MediBot**, a Streamlit-based medical assistant chatbot powered by O
 Input:
 ![image alt](https://github.com/rajsingh565/MediBot/blob/0ffd8383d7846579c5fc101d8fa62511622bf67b/Screenshot1.png)
 Output:
-![image_alt]()
+![image_alt](https://github.com/rajsingh565/MediBot/blob/cdd4ad26ea598f3414470baa8465af4c4f7b75ce/Screenshot2.png)
 
 
 ## 🌟 Features
@@ -30,11 +30,11 @@ Output:
    git clone https://github.com/your-username/medibot.git
    cd medibot
    ```python -m venv venv
-source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`pip install -r requirements.txt
+      source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`pip install -r requirements.txt
 
 
 ⚠️ Disclaimer
-This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. 
+   This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. 
    Always consult a qualified healthcare provider for personalized guidance.
 
 🛠️ Technologies Used
