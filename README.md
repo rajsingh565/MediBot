@@ -6,6 +6,9 @@ Welcome to **MediBot**, a Streamlit-based medical assistant chatbot powered by O
 
 ---
 
+## Screenshot
+![image alt]()
+
 ## 🌟 Features
 
 - 💬 Interactive chatbot interface using Streamlit
@@ -28,13 +31,13 @@ source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`pip install 
 
 ⚠️ Disclaimer
 This chatbot provides general information and is not a replacement for professional medical advice, diagnosis, or treatment. 
-Always consult a qualified healthcare provider for personalized guidance.
+   Always consult a qualified healthcare provider for personalized guidance.
 
 🛠️ Technologies Used
-Streamlit
-OpenAI GPT-3.5-turbo
-Python
-dotenv
+Streamlit,
+OpenAI GPT-3.5-turbo,
+Python,
+dotenv,
 httpx
 
 🙌 Credits
